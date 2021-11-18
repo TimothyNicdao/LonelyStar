@@ -14,7 +14,7 @@ To run this prototype please follow the commands in your terminal. Note that to 
 <br><br>
 Clone the git repo of the project:
 ```
-git clone https://github.com/HACC2021/LonelyStar.git 
+git clone https://github.com/TimothyNicdao/LonelyStar.git 
 ```
 
 <br><br>
