@@ -1,6 +1,9 @@
 # LonelyStar
 
 Thank you for checking out team LonelyStar's project! 
+To see the video of the systems capabilities, click the picture below. 
+
+[![See the video here](thumbnail.jpg)](https://youtu.be/VszD5POEqAU "LonelyStar's chatbot")
 <br><br>
 
 
