@@ -22,7 +22,7 @@ device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 num_classes = 13
 # batch_size = 16
 # epochs = 35 # The number of epochs
-MODEL_NAME =  './ml/distilroberta-base'
+MODEL_NAME =  'distilroberta-base'
 
 class_to_label = {
     1: 'Scholarships',
